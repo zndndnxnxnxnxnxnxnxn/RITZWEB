@@ -1,0 +1,6 @@
+export/
+*.asd
+.DS_STORE
+APIStuff.hx
+ApiData.hx
+.vscode/
